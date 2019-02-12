@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRKS.QQ.GoBangBot", "TRKS.QQ.GoBangBot\TRKS.QQ.GoBangBot.csproj", "{B5451D17-AA27-4BFB-99B5-CF9A7B251A4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoBang", "GoBang\GoBang\GoBang.csproj", "{9F7C564C-CC56-49AE-B510-BA5299228658}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B5451D17-AA27-4BFB-99B5-CF9A7B251A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5451D17-AA27-4BFB-99B5-CF9A7B251A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5451D17-AA27-4BFB-99B5-CF9A7B251A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7C564C-CC56-49AE-B510-BA5299228658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7C564C-CC56-49AE-B510-BA5299228658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7C564C-CC56-49AE-B510-BA5299228658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7C564C-CC56-49AE-B510-BA5299228658}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

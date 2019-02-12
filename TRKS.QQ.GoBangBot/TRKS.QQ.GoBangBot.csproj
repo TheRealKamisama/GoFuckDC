@@ -81,8 +81,6 @@
     <None Include="build.bat" />
     <None Include="build.ps1" />
     <None Include="buildTools\packages.config" />
-    <None Include="MahuaApis\readme.md" />
-    <None Include="MahuaEvents\readme.md" />
     <None Include="NewbeLibs\Framework\NLog.config" />
     <None Include="NewbeLibs\Platform\CQP\Content\Newbe.Mahua.CQP.json" />
     <None Include="packages.config" />
@@ -119,6 +117,9 @@
     <Content Include="NewbeLibs\Platform\MPQ\CLR\Newbe.Mahua.MPQ.pdb" />
     <Content Include="NewbeLibs\Platform\MPQ\Native\Newbe.Mahua.MPQ.Native.dll" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="MahuaApis\" />
+    <Folder Include="MahuaEvents\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

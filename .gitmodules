@@ -1,0 +1,3 @@
+[submodule "GoBang"]
+	path = GoBang
+	url = https://github.com/Rinacm/GoBang.git

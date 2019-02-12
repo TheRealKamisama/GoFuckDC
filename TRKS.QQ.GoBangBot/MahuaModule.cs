@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using Newbe.Mahua;
 
 namespace TRKS.QQ.GoBangBot
 {
